@@ -23,7 +23,7 @@
    - Front-End : 유승현(PM), 박정현, 박경토
    - Back-End : 강승연, 심규보, 남채린
 
-### 4. gitHub 링크 : https://github.com/ysh1394/17-1st-StyleWe-frontend
+### 4. gitHub 링크 : https://github.com/OZOscarZulu/17-1st-StyleWe-frontend
 
 ### 5. 데모 영상(링크) : https://drive.google.com/file/d/1-yQxb6fVL7KY29i3dajLNLSoZQaLSqI9/view?usp=sharing
 
@@ -80,7 +80,7 @@
    > - 구현 기능
    >
    > 1. Link 기능을 활용한 로그인/회원가입 페이지 전환
-   > 2. fetch 함수를 활용하여 백엔드와 통신 -> LocalStorage에 토큰 생성 테스트 완료
+   > 2. fetch 함수를 활용하여 백엔드와 통신 -> LocalStorage에 토큰 생성 테스트 완료 , 백엔드와 patch통신으로 가입완료.
 
 5. 그 외 (네비게이션 바, 푸터)
    > 공통으로 사용되는 네비게이션 바, 푸터 기능 구현
