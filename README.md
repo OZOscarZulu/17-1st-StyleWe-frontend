@@ -21,11 +21,8 @@
 1. 팀명 : Style 'We'
 2. 팀원
    - Front-End : 박경토
- 
 
-### 4. gitHub 링크 : https://github.com/OZOscarZulu/17-1st-StyleWe-frontend
-
-### 5. 데모 영상(링크) : https://drive.google.com/file/d/1-yQxb6fVL7KY29i3dajLNLSoZQaLSqI9/view?usp=sharing
+### 4. 데모 영상(링크) : https://drive.google.com/file/d/1-yQxb6fVL7KY29i3dajLNLSoZQaLSqI9/view?usp=sharing
 
 ## 적용 기술 및 구현 기능
 
